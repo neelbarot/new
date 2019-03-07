@@ -2,5 +2,5 @@
 
 
 echo"second";
-echo"fina l";
+echo"final";
 ?>
